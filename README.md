@@ -14,10 +14,10 @@ The libraries I used:
 
 ### The dashdoard includes 4 interactive graphs:
 
-##### *Bar Chart*: Visualizing suicide rate categorized by income groups
-##### *Line Chart*: Visualizing trend of suicide rate 
-##### *Table*: Visualizing the top 10 countries with the highest suicide rate by years
-##### *Map*: Visualizing the countries with suicide rates
+##### *Bar Chart: Visualizing suicide rate categorized by income groups*
+##### *Line Chart: Visualizing trend of suicide rate*
+##### *Table: Visualizing the top 10 countries with the highest suicide rate by years*
+##### *Map: Visualizing the countries with suicide rates*
 
 
 Link to resource: https://data.worldbank.org/indicator/SH.STA.SUIC.P5?end=2019&name_desc=false&start=2019&type=shaded&view=map&year=2019
